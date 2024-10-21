@@ -1,0 +1,57 @@
+VR Experience Documentation: Climate Change and Air Pollution Awareness
+
+Overview:
+This documentation provides a comprehensive guide to the VR experience created to raise awareness about climate change and air pollution, along with strategies to overcome these pressing issues. The experience is designed for Meta Quest 2 VR headset and is developed using Unity with XR Toolkit, Universal Render Pipeline (URP), and immersive audio instructions.
+
+Features:
+1. Six immersive scenes depicting various aspects of climate change and air pollution.
+2. Interactivity allowing users to navigate through scenes using keyboard, mouse inputs, or Meta Quest 2 controllers.
+3. XR Toolkit integration for seamless development and deployment across multiple VR platforms.
+4. Universal Render Pipeline (URP) implementation for enhanced graphical fidelity and performance optimization.
+5. Immersive audio instructions guiding users through the experience for the best possible engagement.
+6. Educational content providing insights into the causes, impacts, and solutions related to climate change and air pollution.
+7. Engaging visuals and audio to enhance the overall immersive experience.
+
+Software Used:
+1. Unity: A powerful game development platform used for creating 3D, 2D, VR, and AR experiences.
+2. XR Toolkit: Unity's XR Interaction Toolkit for developing cross-platform VR and AR experiences.
+3. Universal Render Pipeline (URP): A scriptable rendering pipeline for Unity, providing better performance and visual quality.
+4. XR Device Simulator: Tool provided by Unity for simulating XR devices during development.
+5. Meta Quest 2 SDK: Software Development Kit for building applications specifically for the Meta Quest 2 VR headset.
+
+System Requirements:
+1. Meta Quest 2 VR headset
+2. Compatible PC with Unity installed
+3. Keyboard and mouse OR Meta Quest 2 controllers
+
+Installation:
+1. Click on the Google Drive link provided in the submitted PDF file.
+2. Download the zip file (VR_game_Gang_007) available on the Google Drive link.
+3. Unzip the file.
+4. To run the game on a laptop:
+   - Open the VR-Game folder->VR_App_folder in the unzipped 'VR_game_Gang_007' folder.
+   - In the VR_App_folder, double click on the 'VR Game App' (main application).
+   - This will open our VR game for the user.
+5. To run the game on MetaQuest-2:
+   - Open the VR-Game folder-> VR_App_without_device_Simulator folder in the unzipped 'VR_game_Gang_007' folder.
+   - In the VR_App_without_device_Simulator, double click on the 'VR Game without simulator' (main application).
+   - This will open our VR game for the user.
+
+User Instructions:
+1. Once the game is started, follow the on-screen instructions for the best experience.
+2. Listen closely to the audio instructions provided in the game.
+3. Use the Meta Quest 2 controllers or keyboard and mouse to navigate through scenes.
+4. Explore each scene thoroughly to learn about climate change and air pollution.
+5. Interact with objects or elements within the scenes to trigger additional information or animations.
+6. Utilize the educational content provided to understand the challenges and solutions related to climate change and air pollution.
+7. Enjoy the immersive experience and share insights with others to spread awareness.
+
+Credits:
+- Developed by Gang_007
+- Powered by Unity Technologies
+- XR Toolkit by Unity Technologies
+- Universal Render Pipeline (URP) by Unity Technologies
+- Meta Quest 2 SDK by Meta Platforms, Inc.
+
+Conclusion:
+This VR experience aims to educate and inspire individuals to take action against climate change and air pollution. By leveraging immersive technology, including audio instructions, we provide an engaging journey towards environmental awareness. Thank you for participating in this journey towards building a sustainable future for generations to come.
